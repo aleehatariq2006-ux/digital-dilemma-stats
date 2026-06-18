@@ -68,6 +68,12 @@ python digital_dilemma.py
 
 ---
 
+## 💻 Full Code on GitHub 👇
+
+**[digital_dilemma.py](./digital_dilemma.py)**
+
+---
+
 ## 💡 The Takeaway
 
 > *"Statistics doesn't just describe data — it reveals truth hidden inside numbers."*
@@ -77,6 +83,6 @@ They explain real behavior. Real habits. Real consequences.
 
 ---
 
-**Thank You Sir 🫡 : Sir fakhar Mustafa**
+**Thank You Sir 🫡 : [Sir's Name]**
 
 `#DataScience` `#Python` `#Statistics` `#BayesTheorem` `#NormalDistribution` `#COMSATS` `#Mathematics` `#StudentDeveloper`
