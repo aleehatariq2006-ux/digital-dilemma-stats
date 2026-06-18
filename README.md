@@ -77,6 +77,6 @@ They explain real behavior. Real habits. Real consequences.
 
 ---
 
-**Thank You Sir 🫡 : [Sir's Name]**
+**Thank You Sir 🫡 : Sir fakhar Mustafa**
 
 `#DataScience` `#Python` `#Statistics` `#BayesTheorem` `#NormalDistribution` `#COMSATS` `#Mathematics` `#StudentDeveloper`
